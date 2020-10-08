@@ -1,0 +1,23 @@
+{
+  "name": "naturaldisastersmap",
+  "version": "1.0.0",
+  "description": "map of natural disasters",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniKeller/NaturalDisasterMap.git"
+  },
+  "author": "Dani Keller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniKeller/NaturalDisasterMap/issues"
+  },
+  "homepage": "https://github.com/DaniKeller/NaturalDisasterMap#readme"
+}
