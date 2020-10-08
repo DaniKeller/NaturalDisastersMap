@@ -1,1 +1,1 @@
-web: node app.js
+web: node natural-disasters-master/natural-disasters-master/app.js
