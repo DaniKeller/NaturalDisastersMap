@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Leaflet" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://E:/temp/leaflet" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://E:/temp/leaflet" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
