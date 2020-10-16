@@ -1,5 +1,7 @@
+/* Map container height */
 #mapid { height: 950px; }
 
+/* Styles for the custom info control */
 .info {
     padding: 6px 8px;
     font: 14px/16px Arial, Helvetica, sans-serif;
@@ -13,6 +15,7 @@
     color: #777;
 }
 
+/* Styles for the custom legend control */
 .legend {
     line-height: 18px;
     color: #555;
